@@ -369,16 +369,18 @@ border-radius: 0px 0px 4px 4px;
 
 }
 .team-list-item-wrap{
-     padding: 32px 0;
+    
 }
 
 .team-socials-wraper{
- 
-padding: 32px 0;
 display: flex;
 justify-content: center;
 gap: 24px;
 
+}
+.team-images{
+    display: block;
+   width: 100%;
 }
 .team-logo {
     color: #2e2f42;
