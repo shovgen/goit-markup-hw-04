@@ -391,13 +391,14 @@ border-radius: 0px 0px 4px 4px;
     color: #434455;
     margin-top: 8px;
 }
+/*
 
 .team-list-socials-wraper{
 display: flex;
 justify-content: center;
 gap: 24px;
 
-}
+}*/
 
 .team-list-socials{
     display: flex;
@@ -407,7 +408,7 @@ gap: 24px;
    
     padding-bottom: 32px;
     padding-top: 8px;
-    
+    gap: 24px;
 }
 .team-list-socials-item{
 width: 40px;
